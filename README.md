@@ -1,7 +1,5 @@
 # Build libwebsockets for android
 
-[![Build Status](https://travis-ci.org/alvisisme/android-libwebsockets.svg?branch=master)](https://travis-ci.org/alvisisme/android-libwebsockets)
-
 编译libwebsockets到Android平台,arm64架构。
 
 ## 编译环境
